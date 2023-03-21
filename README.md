@@ -30,4 +30,4 @@ MIT
 Author Information
 ------------------
 
-Sergey Gudimov
+Student
